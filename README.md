@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=4000&color=2EF7DB&background=000000B1&width=1000&height=100&lines=My+main+occupation+is+related+to+digital+image+processing+and+video+stream+analysis.+;I+graduated+from+the+university+in+the+direction+of+Infocommunication+technologies+;of+spatial+information+analysis+and+processing.)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broder18&langs_count=8&&show_icons=true&theme=blue-green)](https://github.com/broder18/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broder18&langs_count=8&hide=с++&show_icons=true&theme=blue-green)](https://github.com/broder18/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broder18&show_icons=true&theme=blue-green)
