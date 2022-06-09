@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://github.com/broder18/broder18/blob/main/No.gif" height="200"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=4000&color=2EF7DB&background=000000B1&width=1000&height=100&lines=My+main+occupation+is+related+to+digital+image+processing+and+video+stream+analysis.+;I+graduated+from+the+university+in+the+direction+of+Infocommunication+technologies+;of+spatial+information+analysis+and+processing.+;If+you+have+any+complaints+we+can+"Выйти+раз+на+раз".)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=4000&color=2EF7DB&background=000000B1&width=1000&height=100&lines=My+main+occupation+is+related+to+digital+image+processing+and+video+stream+analysis.+;I+graduated+from+the+university+in+the+direction+of+Infocommunication+technologies+;of+spatial+information+analysis+and+processing.+;If+you+have+any+complaints,+we+can+"Выйти+раз+на+раз".)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broder18&langs_count=6&hide=c,c++&show_icons=true&theme=blue-green)](https://github.com/broder18/github-readme-stats)
 
