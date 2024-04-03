@@ -3,10 +3,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=broder18&show_icons=true&theme=blue-green)
 
-<!--[![codewars](https://www.codewars.com/users/broder18/badges/large)](https://www.codewars.com/users/broder18)   
+[![codewars](https://www.codewars.com/users/broder18/badges/large)](https://www.codewars.com/users/broder18)  
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=broder18&theme=dark)](https://github.com/broder18/leetcode-stats)
--->
 <!--
 **broder18/broder18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
