@@ -1,4 +1,3 @@
-# Yaroslav Zhuk
 
 ## C++ Developer
 
